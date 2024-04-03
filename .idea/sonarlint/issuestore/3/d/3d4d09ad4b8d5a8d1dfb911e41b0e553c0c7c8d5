@@ -1,0 +1,27 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ÎÄ¤‘ê1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š¶Õûÿÿÿÿ8ÑÄ¤‘ê1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(úÁô¹8ìÄ¤‘ê1
+G	java:S106"+Replace this use of System.out by a logger.(Œ’å‰8ïÄ¤‘ê1
+G	java:S106"+Replace this use of System.out by a logger.(Ğ›÷À8ğÄ¤‘ê1
+L	java:S106"+Replace this use of System.out by a logger.( ËåËÿÿÿÿÿ8ñÄ¤‘ê1
+L	java:S106"+Replace this use of System.out by a logger.(õ°öÁøÿÿÿÿ8øÄ¤‘ê1
+L	java:S106"+Replace this use of System.out by a logger.(è¢Ìùÿÿÿÿ8ûÄ¤‘ê1
+L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8üÄ¤‘ê1
+G	java:S106""+Replace this use of System.out by a logger.(øí•ƒ8ıÄ¤‘ê1
+L	java:S106#"+Replace this use of System.out by a logger.(å™İüÿÿÿÿ8şÄ¤‘ê1
+G	java:S106$"+Replace this use of System.out by a logger.(Øç˜´8şÄ¤‘ê1
+L	java:S106'"+Replace this use of System.out by a logger.(ÇÌî£ıÿÿÿÿ8ÿÄ¤‘ê1
+F	java:S106("+Replace this use of System.out by a logger.(æß‰T8ÿÄ¤‘ê1
+L	java:S1061"+Replace this use of System.out by a logger.(»²ş¥şÿÿÿÿ8Å¤‘ê1
+L	java:S1062"+Replace this use of System.out by a logger.(€®³‚şÿÿÿÿ8‚Å¤‘ê1
+L	java:S1063"+Replace this use of System.out by a logger.(èÿëØøÿÿÿÿ8ƒÅ¤‘ê1
+G	java:S1064"+Replace this use of System.out by a logger.(„»éÚ8„Å¤‘ê1
+G	java:S1065"+Replace this use of System.out by a logger.(Ã¦î¦8…Å¤‘ê1
+G	java:S106;"+Replace this use of System.out by a logger.(âåèÛ8†Å¤‘ê1
+L	java:S106<"+Replace this use of System.out by a logger.(©Ş£²ıÿÿÿÿ8†Å¤‘ê1
+L	java:S106="+Replace this use of System.out by a logger.(ğ·ÿúÿÿÿÿ8‡Å¤‘ê1
+L	java:S106?"+Replace this use of System.out by a logger.(»²ş¥şÿÿÿÿ8ˆÅ¤‘ê1
+L	java:S106@"+Replace this use of System.out by a logger.(š¡¨´şÿÿÿÿ8‰Å¤‘ê1
+L	java:S106A"+Replace this use of System.out by a logger.(¯³“£ÿÿÿÿÿ8ŠÅ¤‘ê1
